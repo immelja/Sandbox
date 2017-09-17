@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/immelja/Sandbox#readme",
   "dependencies": {
+    "csvtojson": "^1.1.7",
     "express": "^4.15.4",
     "lodash": "^4.17.4"
   }
